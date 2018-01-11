@@ -1,6 +1,6 @@
 import { StackNavigator } from 'react-navigation';
 import Users from './screens/users/users';
-import { HomeTabNavigation } from './screens/home/navigator';
+import { HomeTabNavigation } from './screens/home/homeNavigator';
 
 export const NavigationApp = StackNavigator(
     {
